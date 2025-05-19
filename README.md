@@ -19,7 +19,6 @@
 - DevOps basics (Git, CI/CD, Docker, Kubernetes)
 
 ---
-![Image Alt](https://github.com/Atiq101/porfolio/blob/f70cc23c78703a57ba83b63c8d57030ecccb6601/atcloudimg.jpg)
 
 
 ## 📁 Projects & Labs (See Repositories)

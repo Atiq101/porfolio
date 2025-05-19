@@ -1,48 +1,82 @@
-# 👋 Hi, I'm Atiq Khilji
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me - Muhammad Khilji</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Me</a>
+      <a href="projects.html">Projects</a>
+    </nav>
+  </header>
+  <main>
+    <h2>About Me</h2>
+    <p>
+      I am a Network and Cloud Infrastructure Engineer with over 7 years of experience in network support,
+      infrastructure automation, and security. Skilled in Cisco, Azure, AWS, Terraform, and more.
+    </p>
+    <p><a href="assets/cv.docx" download>📄 Download My CV</a></p>
+  </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me - Muhammad Khilji</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Me</a>
+      <a href="projects.html">Projects</a>
+    </nav>
+  </header>
+  <main>
+    <h2>About Me</h2>
+    <p>
+      I am a Network and Cloud Infrastructure Engineer with over 7 years of experience in network support,
+      infrastructure automation, and security. Skilled in Cisco, Azure, AWS, Terraform, and more.
+    </p>
+    <p><a href="assets/cv.docx" download>📄 Download My CV</a></p>
+  </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Projects - Muhammad Khilji</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Me</a>
+      <a href="projects.html">Projects</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Cloud & Network Projects</h2>
+    <div class="image-grid">
+      <div>
+        <img src="assets/cloud-network/cloud1.jpg" alt="Cloud Infrastructure">
+        <p><strong>Cloud Infrastructure</strong><br>Deployed scalable solutions in Azure & AWS.</p>
+      </div>
+      <div>
+        <img src="assets/cloud-network/cloud2.jpg" alt="Network Security">
+        <p><strong>Network Security</strong><br>Configured Cisco ASA and Palo Alto firewalls.</p>
+      </div>
+      <div>
+        <img src="assets/cloud-network/cloud3.jpg" alt="Hybrid Cloud Design">
+        <p><strong>Hybrid Cloud Design</strong><br>Integrated on-prem and cloud using Terraform.</p>
+      </div>
+    </div>
+  </main>
+</body>
+</html>
 
-🎯 **Network and Cloud Infrastructure Engineer** with 7+ years of hands-on experience in:
-- Cloud (Azure, AWS)
-- Infrastructure automation (Terraform)
-- Cisco/Palo Alto/Check Point firewalls
-- Server and network performance monitoring
-
-## 🔧 Technical Skills
-
-- **Cloud Platforms**: Azure, AWS
-- **Infrastructure as Code**: Terraform
-- **Networking**: Cisco (Routing/Switching), OSPF, EIGRP, BGP
-- **Firewalls**: Cisco ASA/Firepower, Palo Alto, Check Point
-- **Monitoring**: Azure Monitor, SolarWinds, PRTG
-- **DevOps Tools**: Git, Maven, CI/CD, Docker, Kubernetes
-
----
-- DevOps basics (Git, CI/CD, Docker, Kubernetes)
-
----
-
-
-## 📁 Projects & Labs (See Repositories)
-
-- 🌐 **Azure Landing Zone Setup using Terraform**
-- ☁️ **AWS to Azure Migration Practice**
-- 🔐 **Firewall Rules Automation with Python**
-- 📊 **Monitoring Dashboard with PRTG/Azure Monitor**
-- 🛠️ **CI/CD Pipeline Sample with GitHub Actions**
-
----
-
-## 🎓 Certifications
-
-- **AZ-104: Azure Administrator Associate** *(2025)*
-- **AWS Solutions Architect Associate** *(2024)*
-- **Cisco CCNA / JNCIA / MCSE**
-
----
-
-## 📞 Contact
-
-- 📧 Email: khiljiatiqeu@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📱 Phone: +44 7828 109983
-
-> 💬 *Open to roles in Cloud Infrastructure, DevOps, or Network Engineering!*

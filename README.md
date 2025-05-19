@@ -1,82 +1,53 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>About Me - Muhammad Khilji</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="about.html">About Me</a>
-      <a href="projects.html">Projects</a>
-    </nav>
-  </header>
-  <main>
-    <h2>About Me</h2>
-    <p>
-      I am a Network and Cloud Infrastructure Engineer with over 7 years of experience in network support,
-      infrastructure automation, and security. Skilled in Cisco, Azure, AWS, Terraform, and more.
-    </p>
-    <p><a href="assets/cv.docx" download>📄 Download My CV</a></p>
-  </main>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
-  <title>About Me - Muhammad Khilji</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="about.html">About Me</a>
-      <a href="projects.html">Projects</a>
-    </nav>
-  </header>
-  <main>
-    <h2>About Me</h2>
-    <p>
-      I am a Network and Cloud Infrastructure Engineer with over 7 years of experience in network support,
-      infrastructure automation, and security. Skilled in Cisco, Azure, AWS, Terraform, and more.
-    </p>
-    <p><a href="assets/cv.docx" download>📄 Download My CV</a></p>
-  </main>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Projects - Muhammad Khilji</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="about.html">About Me</a>
-      <a href="projects.html">Projects</a>
-    </nav>
-  </header>
-  <main>
-    <h2>Cloud & Network Projects</h2>
-    <div class="image-grid">
-      <div>
-        <img src="assets/cloud-network/cloud1.jpg" alt="Cloud Infrastructure">
-        <p><strong>Cloud Infrastructure</strong><br>Deployed scalable solutions in Azure & AWS.</p>
-      </div>
-      <div>
-        <img src="assets/cloud-network/cloud2.jpg" alt="Network Security">
-        <p><strong>Network Security</strong><br>Configured Cisco ASA and Palo Alto firewalls.</p>
-      </div>
-      <div>
-        <img src="assets/cloud-network/cloud3.jpg" alt="Hybrid Cloud Design">
-        <p><strong>Hybrid Cloud Design</strong><br>Integrated on-prem and cloud using Terraform.</p>
-      </div>
-    </div>
-  </main>
-</body>
-</html>
+# 👋 Hi, I'm Atiqe Khilji
 
+🔧 **Network & Cloud Infrastructure Engineer** with over 7 years of experience in designing, deploying, and managing secure infrastructure across cloud and on-prem environments. Proficient in AWS, Azure, Terraform, and multi-vendor firewall technologies.
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on cloud migrations and infrastructure automation at **CMS**
+- ☁️ Certified in **Azure Administrator Associate**, **AWS Solutions Architect**, and **CCNA**
+- ⚙️ Skilled in:
+  - Azure | AWS | Terraform
+  - Cisco Routing & Switching (OSPF, EIGRP, BGP)
+  - Cisco ASA, Palo Alto, Check Point
+  - CI/CD, Docker, Kubernetes
+- 🛠️ Experienced in monitoring tools: Azure Monitor, SolarWinds, PRTG
+
+---
+
+## 🗂️ Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| **Azure Infrastructure Automation** | Deployed IaaS architecture using Terraform with VMSS, NSGs, Load Balancer | Azure, Terraform |
+| **AWS Server Migration** | Lift-and-shift of legacy applications to AWS EC2 with IAM and S3 | AWS, EC2, IAM |
+| **Firewall Rule Automation** | Automated firewall rules deployment using Ansible (demo) | Cisco ASA, Ansible |
+| **Monitoring Dashboard** | Created custom Azure Monitor dashboards with alerts | Azure Monitor, Log Analytics |
+
+---
+
+## 📜 Certifications
+
+- 🟦 **AZ-104: Azure Administrator Associate** *(2025)*
+- 🟨 **AWS Certified Solutions Architect – Associate** *(2024)*
+- 🟧 **Cisco CCNA / CCNP / JNCIA**
+- 🟩 **Microsoft MCSA / MCSE**
+
+---
+
+## 📫 How to reach me
+
+- 📧 Email: khiljiatiqeu@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
+- 📞 07828109983
+
+---
+
+## 📁 GitHub Repositories (suggested)
+
+- [`azure-terraform-labs`](https://github.com/yourusername/azure-terraform-labs) — Scripts for deploying Azure infrastructure
+- [`aws-migration-demos`](https://github.com/yourusername/aws-migration-demos) — Lift-and-shift application migration
+- [`firewall-config-automation`](https://github.com/yourusername/firewall-config-automation) — Cisco ASA/Firepower automation (mock configs)
+- [`monitoring-dashboards`](https://github.com/yourusername/monitoring-dashboards) — Sample dashboards and alert rules

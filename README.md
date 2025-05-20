@@ -21,10 +21,11 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| **Azure Infrastructure Automation** | Deployed IaaS architecture using Terraform with VMSS, NSGs, Load Balancer | Azure, Terraform |
-| **AWS Server Migration** | Lift-and-shift of legacy applications to AWS EC2 with IAM and S3 | AWS, EC2, IAM |
-| **Firewall Rule Automation** | Automated firewall rules deployment using Ansible (demo) | Cisco ASA, Ansible |
-| **Monitoring Dashboard** | Created custom Azure Monitor dashboards with alerts | Azure Monitor, Log Analytics |
+•	Designed and implemented site-to-site VPN connections between Azure and AWS cloud 
+•	Deployed and configured Azure Application Gateway to host multiple client websites
+•	Migrated diverse on-premises Servers to Azure Cloud ensuring minimal downtime.
+•	Migrated Cisco ASA firewall policies to Cisco Firepower firewall 
+•	Transferred and optimized Cisco ASA firewall policies to Cisco Firepower Firewall
 
 ---
 

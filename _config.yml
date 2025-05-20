@@ -2,6 +2,11 @@
 
 title: Muhammad Khilji
 logo: /assets/atcloudimg.jpg
-description: Network and Cloud Engineer 
+description: Network and Cloud Engineer
 show_downloads: true
 theme: jekyll-theme-merlot
+
+portfolio:
+  - name: Cloud Portfolio
+    image: /assets/atcloudimg.jpg
+    link: /assets/atcloudimg.jpg  # Or /portfolio.html if you have a dedicated page

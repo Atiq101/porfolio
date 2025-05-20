@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Atiqe Khilji
+# 👋 Hi, I'm MuhammadAtique Khilji
 
 🔧 **Network & Cloud Infrastructure Engineer** with over 7 years of experience in designing, deploying, and managing secure infrastructure across cloud and on-prem environments. Proficient in AWS, Azure, Terraform, and multi-vendor firewall technologies.
 
@@ -41,7 +41,7 @@
 ## 📫 How to reach me
 
 - 📧 Email: khiljiatiqeu@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
+- 🔗 [LinkedIn](www.linkedin.com/in/muhammad-khilji)
 - 📞 07828109983
 
 ---
